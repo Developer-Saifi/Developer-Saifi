@@ -19,7 +19,7 @@ Skills: VUE JS / JS / HTML / CSS / PHP
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pylapp&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-![Vaunt Badge](https://api.vaunt.dev/v1/github/entities/Developer-Saifi/contributions?format=svg&private=false)  
+
 
 ![GitHub streak stats](https://streak-stats.demolab.com/?user=Developer-Saifi)  
 
